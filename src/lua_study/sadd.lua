@@ -1,0 +1,1 @@
+redis.call('sadd','name3','a','b')
